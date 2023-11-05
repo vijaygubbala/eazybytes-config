@@ -7,7 +7,7 @@ build:
   version: "2.0"
 
 cards:
-  message: "Welcome to EazyBank cards related Quality Analysis  APIs "
+  message: "Welcome to EazyBank cards related  web hook  Quality Analysis  APIs "
   contactDetails:
     name: "Cherryl Pankaj - QA Lead"
     email: "cherryl@eazybank.com"
