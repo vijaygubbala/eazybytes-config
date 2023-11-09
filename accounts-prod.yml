@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related PROD APIs "
+  message: "Welcome to docker EazyBank accounts related PROD APIs "
   contactDetails:
     name: "Vijay Gubbala - Product Owner"
     email: "{cipher}2998f46436743a79450b23520e759af7abe009e77c54cc8e1360a2e7b31082995c08230826e62349404baedde14acea8"
